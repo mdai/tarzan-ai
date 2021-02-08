@@ -1,1 +1,1 @@
-# tarzan-ai
+# Tarzan AI
